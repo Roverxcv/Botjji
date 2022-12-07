@@ -22,4 +22,4 @@ tree = app_commands.CommandTree(aclient)
 async def slash2(interaction: discord.Interaction):
     await interaction.response.send_message(f"Estou funcionando!", ephemeral = True) 
 
-aclient.run('MTA0OTgwNDU4NTEzODY1OTQwOA.Gwbnkh.oNlBxGDJH5ZVNP4Qxl-UunLqPyXFoxKu4GmhW4')
+aclient.run('MTA0OTgwNDU4NTEzODY1OTQwOA.G5xK5F.mGKcJybYtzTxaiolUx4ZAgeKDDGOEKTEbG-hrg')
